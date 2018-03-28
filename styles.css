@@ -1,0 +1,38 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 24px;
+}
+
+h1 {
+  line-height: 2em;
+  background: linear-gradient(to left, #66CDAA, white);
+  font-size: 40px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.personal {
+  text-align: center;
+}
+
+.imgborder {
+  border: 10px solid grey;
+  border-radius: 10px;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
+
+a:hover {
+  color: fuchsia;
+}
