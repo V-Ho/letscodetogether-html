@@ -1,5 +1,7 @@
 # letscodetogether-html
 
+Welcome to the HTML Workshop for Let's Code Together 
+
 How to create a simple website.
 This demo consists of 2 pages:
 1) hello.html
